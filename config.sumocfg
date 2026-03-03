@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+        <net-file value="ottawa.net.xml"/>
+        <route-files value="ottawa.rou.xml"/>
+    </input>
+
+    <output>
+        <fcd-output value="cav_data.xml"/>
+    </output>
+</configuration>
